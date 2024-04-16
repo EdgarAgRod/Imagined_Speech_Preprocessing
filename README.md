@@ -1,6 +1,5 @@
 # Imagined Speech Preprocessing
-The following repository uses MATLAB's toolbox EEGLAB to pre-process imagined speech signals based on the following pipeline:
-![Pipeline Procesamiento](https://github.com/EdgarAgRod/Traditional_Imagined_Speech_Paradigm/assets/134006734/87e514a7-82b8-4a53-91ae-e103ac0c1b84)
+The following repository uses MATLAB's toolbox EEGLAB to pre-process imagined speech signals.
 
 
 ## How to run
